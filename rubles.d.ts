@@ -1,1 +1,1 @@
-export declare function rubles(n: number, c: string): string;
+export function rubles(n: number, curCode?: string): string;
